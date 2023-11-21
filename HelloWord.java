@@ -6,7 +6,7 @@ public class HelloWord {
 		
 		System.out.println("Good to see");
 		System.out.println("Good to see , welcome");
-		System.out.println("Building")
+		System.out.println("Building");
 		
 	}
 
